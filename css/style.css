@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #1b262c;
+}
+
+.jumbotron {
+  padding-top: 2em;
+  background-color: #bbe1fa;
+}
+
+.crop-img {
+  height: 426px;
+  object-fit: cover;
+}
+
+#about {
+  padding-top: 2em;
+  background-color: #bbe1fa;
+}
+
+footer {
+  background-color: #1b262c;
+}
+
+.footer_icon {
+  display: inline-block;
+  font-size: 30px;
+  color: #ffffff;
+  margin: 10px;
+}
